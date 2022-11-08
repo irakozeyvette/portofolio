@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+}
+h1{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 100px;
+    color: white;
+}
+
+h4{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+p{
+    margin-top: 100px;
+    font-size: 20px;
+    color: rgb(47, 185, 77);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+td{
+    font-size: 30px;
+    color: rgb(168, 51, 81);
+}
+th{
+    font-size: 20px;
+    color: aliceblue;
+}
